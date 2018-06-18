@@ -1,7 +1,0 @@
-/id,nameId,name,comment
-0,x_3way,横３つ,横３つ（ノーマル時）R
-1,sandan,散弾,散弾（ノーマル時）SR
-2,x_homing,横に拡散ホーミング,横に拡散してホーミング（移動時）SR
-3,self,自分の周辺,体当たりSSR
-4,circle2,円形,円形R
-5,self_l,自分の周辺,体当たりSSR
