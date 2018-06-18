@@ -1,0 +1,46 @@
+{
+  "EngineName": "HalEngine",
+  "AssetName": "Asset",
+  "TargetPath": "./",
+  "SourcePath": "../Project",
+  "AssetTypes":
+  [
+    {
+      "Name": "Texture",
+      "TypeName": "TextureResource",
+      "Ignores": [ "nodata.png", "dynamic" ]
+    },
+    {
+      "Name": "Shader",
+      "TypeName": "ShaderResource",
+      "Ignores": [ "default", "\.gitignore" ],
+      "SubAssetTypes":
+      [
+        {
+          "Name": "Material",
+          "TypeName": "Material"
+        }
+      ]
+    },
+    {
+      "Name": "Fbx",
+      "TypeName": "FbxResource",
+      "Ignores": [ ".*\.(jpg|png|bmp|tga)", "dynamic" ],
+      "Options": [ "Folder" ]
+    },
+    {
+      "Name": "Model",
+      "TypeName": "ModelData",
+      "Ignores": [ ".*\.(jpg|png|bmp|tga)" ],
+      "Options": [ "Folder" ]
+    },
+    {
+      "Name": "Json",
+      "TypeName": "JsonResource",
+    },
+    {
+      "Name": "Sound",
+      "TypeName": "SoundResource",
+    }
+  ]
+}

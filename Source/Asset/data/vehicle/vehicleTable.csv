@@ -1,0 +1,5 @@
+/id,nameId,rare,name,comment,accel,brake,speed,rotSpeed,通常,静止
+0,none,0,なし,よわい,100,100,100,100,x_3way,sandan
+1,car,1,車,ふつう,150,150,180,150,sandan,circle2
+2,rocket,2,ロケット,つよい,1000,250,200,100,x_homing,circle2
+3,ora_car,3,オラオラカー,最強,200,1000,200,220,self,self_l

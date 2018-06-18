@@ -1,0 +1,20 @@
+{
+  "Field": {
+    "FieldRadius": 350.000000,
+    "SpaceRadius": 495.000000
+  },
+  "Star": {
+    "Count": 16.000000,
+    "Gravity": 0.000150,
+    "ScaleMax": 36.000000,
+    "ScaleMin": 12.000000,
+    "SpawnRadiusBegin": 120.000000,
+    "SpawnRadiusEnd": 300.000000
+  },
+  "Status": {
+    "AccelWeight": 0.000100,
+    "PowerWeight": 1.000000,
+    "RotSpeedWeight": 0.000200,
+    "SpeedWeight": 0.010000
+  }
+}
